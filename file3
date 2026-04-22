@@ -1,0 +1,2 @@
+git reset undo changes at diff level
+git revert command to create new commit undo the changes made by previous commit
